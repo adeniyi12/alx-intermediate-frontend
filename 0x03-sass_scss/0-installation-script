@@ -1,0 +1,5 @@
+SASS Installation steps using NPM
+
+1. Installed Nodejs
+2. Ran npm install sass -v 3.7.4
+3. Confirm installation sass --version
