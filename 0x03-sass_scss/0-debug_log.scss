@@ -1,0 +1,9 @@
+@debug "Hello world";
+
+$primary: blue;
+
+@debug $primary;
+
+body {
+  background-color: $primary;
+}
